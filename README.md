@@ -1,3 +1,3 @@
-Version=v999999.2
-Code=0
+Version=v1.0
+Code=1
 Url=https://t.me/ModifyClub/
